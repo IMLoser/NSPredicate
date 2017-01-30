@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>淘宝</string>
+	<string>淘宝网</string>
+	<string>淘宝鞋店</string>
+	<string>爱淘宝</string>
+	<string>京东</string>
+	<string>京东网</string>
+	<string>京东电器</string>
+	<string>JD.net</string>
+	<string>京东6.18</string>
+	<string>阿里巴巴</string>
+	<string>阿里巴巴-马云</string>
+	<string>京东-刘强东</string>
+	<string>爱京东</string>
+	<string>买衣服去淘宝</string>
+	<string>买衣服去京东</string>
+	<string>京东购</string>
+	<string>天猫网</string>
+	<string>天猫商城</string>
+	<string>天猫超市</string>
+</array>
+</plist>
